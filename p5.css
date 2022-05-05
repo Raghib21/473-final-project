@@ -11,13 +11,15 @@
 
 }
 
-#employeename{
+.order{
     height: 35px;
     width: 400px;
 
 }
 
-#list{
+#p{
+    margin-left: 25%;
+    margin-right: 25%;
     text-align: center;
     font-size: 50px;
     background-color: aqua;
